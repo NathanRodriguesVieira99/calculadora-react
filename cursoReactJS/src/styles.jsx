@@ -11,7 +11,7 @@ justify-content:center;
 `;
 
 export const Content = styled.div`
-background-color:#ffff ;
+background-color:#fff ;
 width:50%;
 `;
 
